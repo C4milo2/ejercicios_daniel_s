@@ -1,0 +1,30 @@
+#objeto1{
+    background-color: rgb(126, 126, 218);
+    text-align: center;
+}
+#objeto2{
+   text-align: center;
+    background-color: mediumaquamarine;
+}
+#objeto3{
+   text-align:center ;
+    background-color: rgb(204, 181, 152);
+}
+
+#objeto4{
+    text-align: center;
+    position: relative;
+    background-color: rgb(84, 84, 138);
+   
+}
+#objeto5{
+    text-align: center;
+    background-color: red;
+   
+
+}
+#objeto6{
+    text-align: center;
+    background-color: rgb(125, 172, 50);
+ 
+}
